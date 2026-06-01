@@ -1,7 +1,7 @@
 /** @file Heap.c
  *  Demonstration for the C-RUN Checked-heap features
  *
- *  Copyright (c) 2014-2024, IAR Systems AB.
+ *  Copyright (c) 2014-2026, IAR Systems AB.
  *  See LICENSE for detailed license information.
  */
 
